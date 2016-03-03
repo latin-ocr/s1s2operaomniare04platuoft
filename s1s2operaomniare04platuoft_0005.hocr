@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./s1s2operaomniare04platuoft_0005.png"; bbox 0 0 1612 2956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 917 2956">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 917 2956">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 917 2956; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 917 2956; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1372 69 1541 109">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1372 69 1541 109">
+     <span class='ocr_line' id='line_1_2' title="bbox 1372 69 1541 109; baseline -0.012 -3"><span class='ocrx_word' id='word_1_2' title='bbox 1372 88 1382 109; x_wconf 56' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_3' title='bbox 1408 69 1484 106; x_wconf 47' lang='lat' dir='ltr'>mv&amp;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1539 75 1541 80; x_wconf 62' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1591 1551 1612 1693">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1591 1551 1612 1693">
+     <span class='ocr_line' id='line_1_3' title="bbox 1591 1551 1612 1693; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 1591 1642 1610 1693; x_wconf 41' lang='lat'>,425</span> <span class='ocrx_word' id='word_1_6' title='bbox 1599 1623 1605 1628; x_wconf 56' lang='lat'>2</span> <span class='ocrx_word' id='word_1_7' title='bbox 1600 1601 1612 1614; x_wconf 29' lang='grc' dir='ltr'>ἦ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1592 1551 1606 1589; x_wconf 65' lang='grc' dir='ltr'>“.“τ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
